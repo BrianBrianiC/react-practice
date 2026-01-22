@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Celda from './components/Celda';
+import Celda from './Celda';
 
 type ValorCelda = 'X' | 'O' | null;
 const lines = [
